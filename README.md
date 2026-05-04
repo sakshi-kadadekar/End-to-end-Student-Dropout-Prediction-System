@@ -159,12 +159,6 @@ The system uses SHAP to:
 
 ---
 
-## 💼 Resume Description
-
-> Built an end-to-end student dropout prediction system using XGBoost with SHAP-based explainability and deployed it via FastAPI as a real-time REST API.
-
----
-
 ## 👩‍💻 Author
 
 **Sakshi Kadadekar**
