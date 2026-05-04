@@ -165,15 +165,6 @@ The system uses SHAP to:
 
 ---
 
-## 🔮 Future Enhancements
-
-* 🔹 Docker containerization
-* 🔹 Cloud deployment (AWS / Render)
-* 🔹 MLflow integration for experiment tracking
-* 🔹 Frontend dashboard (React)
-
----
-
 ## 👩‍💻 Author
 
 **Sakshi Kadadekar**
@@ -188,6 +179,3 @@ This project demonstrates a **complete ML lifecycle**:
 
 ---
 
-If you want next:
-👉 I can create a **LinkedIn post to showcase this project**
-👉 OR help you **deploy it on cloud (AWS / Render)** 🚀
